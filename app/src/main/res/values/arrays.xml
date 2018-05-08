@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+
+        <item>@string/All</item>
+        <item>@string/artAndDesign</item>
+        <item>@string/australianNews</item>
+        <item>@string/books</item>
+        <item>@string/business</item>
+        <item>@string/culture</item>
+        <item>@string/education</item>
+        <item>@string/environment</item>
+        <item>@string/fashion</item>
+        <item>@string/film</item>
+        <item>@string/football</item>
+        <item>@string/inequality</item>
+        <item>@string/lifeAndStyle</item>
+        <item>@string/media</item>
+        <item>@string/membership</item>
+        <item>@string/money</item>
+        <item>@string/music</item>
+        <item>@string/news</item>
+        <item>@string/politics</item>
+        <item>@string/science</item>
+        <item>@string/society</item>
+        <item>@string/sport</item>
+        <item>@string/stage</item>
+        <item>@string/technology</item>
+        <item>@string/televisionAndRadio</item>
+        <item>@string/travel</item>
+        <item>@string/ukNews</item>
+        <item>@string/usNews</item>
+        <item>@string/worldNews</item>
+    </string-array>
+
+</resources>

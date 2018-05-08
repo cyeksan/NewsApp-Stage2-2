@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_menu_item">
+
+    <ListPreference
+        android:defaultValue="@string/All"
+        android:entries="@array/category"
+        android:entryValues="@array/category"
+        android:icon="@drawable/ic_action_settings"
+        android:key="@string/category_title"
+        android:summary="@string/category_description"
+        android:title="@string/category_title" />
+
+    <EditTextPreference
+        android:defaultValue="@string/default_page_number"
+        android:icon="@drawable/ic_action_settings"
+        android:key="@string/page_title"
+        android:selectAllOnFocus="true"
+        android:summary="@string/page_description"
+        android:title="@string/page_title" />
+
+</PreferenceScreen>

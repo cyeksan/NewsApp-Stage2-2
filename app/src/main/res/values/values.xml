@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ORDER_BY">order-by</string>
+    <string name="ORDER">newest</string>
+    <string name="TAGS">show-tags</string>
+    <string name="CONTRIBUTOR">contributor</string>
+    <string name="PAGE_SIZE">page-size</string>
+    <string name="PAGES">20</string>
+    <string name="API_KEY">api-key</string>
+    <string name="NEWS_API_KEY_TOKEN">9e7553cb-4f7d-42c4-86dc-7d8942aef35d</string>
+    <string name="SHOW_FIELDS">show-fields</string>
+    <string name="THUMBNAIL">thumbnail</string>
+    <string name="SECTION">section</string>
+
+</resources>
